@@ -1,1 +1,1 @@
-console.log("Happy Holidays!")
+function happyHolidays
